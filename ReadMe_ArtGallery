@@ -1,0 +1,40 @@
+Frontend Mentor - Art gallery website solution
+This is a solution to the Art gallery website challenge on Frontend Mentor.
+
+TABLE OF CONTENT
+
+Overview
+  - The challenge
+  - Links
+
+My process
+  - Built with
+  - What I learned
+
+Author
+
+OVERVIEW 
+
+- The challenge
+
+  Users should be able to:
+    - View the optimal layout for each page depending on their device's screen size
+    - See hover states for all interactive elements
+    - Navigate between the homepage and the location page
+
+- Links
+    - Figma design: https://www.figma.com/design/v7N49IeLjrJ34hIzYMa4Ek/art-gallery-website?node-id=2-72&p=f&t=gGbiFMIV1fTKcalh-0
+    - GitHub: https://github.com/Argoneo
+
+- My process
+  - Built with
+    - Semantic HTML5
+    - CSS3 (flexbox and grid)
+    - Vanilla JavaScript
+    - Mobile-first workflow
+
+- What I learned
+  This project allowed me to reinforce responsive layout techniques using pure CSS and better organize my HTML structure. I also handled basic JavaScript interactivity, such as dynamic hover states via addEventListener.
+
+Author
+GitHub – @Argoneo
