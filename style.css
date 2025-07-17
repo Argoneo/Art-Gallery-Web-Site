@@ -708,8 +708,8 @@ footer{
 
         #logoDark2{
             display:block;
-            width:339px !important;
-            height:108px !important;
+            width:100% !important;
+            height:100% !important;
         }
 
         #logoDark2 img{
