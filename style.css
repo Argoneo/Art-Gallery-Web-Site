@@ -713,7 +713,7 @@ footer{
         }
 
         #logoDark2 img{
-            width:fit-content;
+            width:100%;
             height:100%!important
         }
 
@@ -735,8 +735,8 @@ footer{
 
         #boxLocationButton {
             gap: 32px;
-            min-height: fit-content; 
-            width:fit-content ;
+            min-height: 100%; 
+            width:100%
             top:25%;
             left:88%;
         }
@@ -755,18 +755,18 @@ footer{
     @media(max-width:850px){
          #boxLocationButton {
             gap: 32px;
-            min-height: fit-content; 
-            width:fit-content ;
+            min-height: 100%; 
+            width:100% ;
         }
 
         #logoDark2{
             display:block;
-            width:339px !important;
-            height:95px !important;
+            width:100% !important;
+            height:100% !important;
         }
 
         #logoDark2 img{
-            width:fit-content;
+            width100%;
             height:100%!important
         }
 
