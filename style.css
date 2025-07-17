@@ -973,9 +973,17 @@ footer{
               @media(max-width:370px){
 
                  #logoDark2 img{
-                min-width:80px!important;
-                min-height:80px !important;
-            }
+                    min-width:80px!important;
+                    min-height:80px !important;
+                }
+                #boxLocationButton{
+                    max-width:280px !important;
+                    margin-left: 20px;
+                }
+
+                #logoDark2{
+                    max-width:100% !important;
+                }
 
             }
 
