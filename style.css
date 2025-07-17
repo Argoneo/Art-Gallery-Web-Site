@@ -985,6 +985,10 @@ footer{
                     max-width:100% !important;
                 }
 
+                  #logoDark2 img{
+                    object-fit: contain;
+                }
+
             }
 
 
