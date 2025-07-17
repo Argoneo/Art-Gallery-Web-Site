@@ -977,7 +977,7 @@ footer{
                     min-height:80px !important;
                 }
                 #boxLocationButton{
-                    max-width:280px !important;
+                    max-width:100% !important;
                     margin-left: 20px;
                 }
 
