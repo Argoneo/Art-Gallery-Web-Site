@@ -989,6 +989,35 @@ footer{
                     object-fit: contain;
                 }
 
+                  #landingPage {
+                    padding-left: 20px;
+                    padding-right: 20px;
+                    box-sizing: border-box;
+                    align-items: flex-start; /* impedisce il centramento */
+                }
+
+            /* logo mobile */
+                #logoDark2 {
+                    width: auto;
+                    display: block;
+                    margin-bottom: 20px;
+                }
+
+                #logoDark2 img {
+                    max-width: 100%;
+                    height: auto;
+                    display: block;
+                }
+
+            /* testo paragrafo */
+                #text {
+                    margin-bottom: 20px;
+                }
+
+                /* bottone */
+                button {
+                    margin-bottom: 20px;
+                }
             }
 
 
