@@ -760,8 +760,8 @@ footer{
             gap:100px
         }
 
-            #logoDark{
-        display: none;  
+        #logoDark{
+            display: none;  
         }
 
         #landingPage{
@@ -946,7 +946,23 @@ footer{
                 }
 
             }
-            
+             @media(max-width:390px){
+                #mainText{
+                    width: 100%;
+                    height: fit-content;
+                }
+
+                #mainText2{
+                    width: 100%;
+                    height: fit-content;
+                }
+
+                #boxLocationButton{
+                    width: 100%!important;
+                    height: fit-content!important;
+                    margin-left: 20px;
+                }
+             }
                 
               @media(max-width:370px){
 
