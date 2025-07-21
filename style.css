@@ -970,14 +970,13 @@ footer{
          
                 #footerLogo {
                     max-width: 100%;
-                    padding: 0;
-                    margin: 0;
+                   
                 }
                 
                 #social {
                     min-width: 0;
                     max-width: 100%;
-                    margin: 0;
+                    
                 }
 
             }
