@@ -1017,17 +1017,15 @@ footer{
     /* ADAPTIVE SCREEN LOCATION */
 
     @media(max-width:1920px){
-html{
+         #htmlLocation{
             max-height: fit-content!important;
+            overflow-x: hidden !important;
+            
         }
         #location{
             max-height: fit-content!important;
+            overflow-x: hidden;
         }
-        #map img{
-                width: fit-content;
-                max-height:800px;
-             }
-    }
 
      @media(max-width:1440px){
 
