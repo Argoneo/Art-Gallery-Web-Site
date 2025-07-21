@@ -971,6 +971,10 @@ footer{
                     max-width: 300px !important;
                 }
 
+                 footer{
+                    height:100vh !important;
+                }
+
             }
             
                 
