@@ -22,10 +22,6 @@ body{
 *, *::before, *::after {
     box-sizing: border-box;
 }
-
-#social img {
-    border: 1px solid red;
-}
     
 /* MAIN STRUCTURE*/
 #boxCentralGrid{
@@ -959,29 +955,30 @@ footer{
                 min-width:100px!important;
                 min-height:100px !important;
                 }
+                
                #footerLogo p {
                     max-width: 300px !important;
                 }
 
                  footer{
+                    padding: 40px 10px 40px 10px !important;
                     height:100% !important;
                     padding-bottom:60px !important;
-                     overflow: visible !important;
+                    overflow: visible !important;
                 }
 
-                footer{
-        padding: 40px 10px 40px 10px !important;
-    }
-    #footerLogo {
-        max-width: 100%;
-        padding: 0;
-        margin: 0;
-    }
-    #social {
-        min-width: 0;
-        max-width: 100%;
-        margin: 0;
-    }
+         
+                #footerLogo {
+                    max-width: 100%;
+                    padding: 0;
+                    margin: 0;
+                }
+                
+                #social {
+                    min-width: 0;
+                    max-width: 100%;
+                    margin: 0;
+                }
 
             }
             
