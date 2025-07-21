@@ -22,6 +22,10 @@ body{
 *, *::before, *::after {
     box-sizing: border-box;
 }
+
+#social img {
+    border: 1px solid red;
+}
     
 /* MAIN STRUCTURE*/
 #boxCentralGrid{
