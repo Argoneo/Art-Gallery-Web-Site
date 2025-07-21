@@ -197,7 +197,8 @@ footer{
     #footerLogo p{
         color: white;
         height:75px;
-        width: 430px;
+        max-width: 430px;
+        width:100%;
         margin: 0;
         font-size:18px;
         font-family: "Outfit", sans-serif;
@@ -960,16 +961,19 @@ footer{
                 }
             }
 
-              @media(max-width:450px){
+            @media(max-width:450px){
 
                  #logoDark2 img{
                 min-width:100px!important;
                 min-height:100px !important;
-            }
-                
                 }
-            }
+               #footerLogo p {
+                    max-width: 300px !important;
+                }
 
+            }
+            
+                
               @media(max-width:370px){
 
                  #logoDark2 img{
